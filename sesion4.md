@@ -67,7 +67,6 @@
 # resultado = contar_palabras(cadena)
 # print("Número de palabras:", resultado)
 
-
 # 5
 # def potencia(base, exponente):
 #     resultado = base ** exponente

@@ -68,7 +68,6 @@
 # else:
 #     print("La palabra 'mundo' no está en el conjunto.")
 
-
 ## DIRRECCION
 
 # dias_de_semana = {
